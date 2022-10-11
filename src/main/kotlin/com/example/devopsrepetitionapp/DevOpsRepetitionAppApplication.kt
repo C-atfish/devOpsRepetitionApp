@@ -3,7 +3,7 @@ package com.example.devopsrepetitionapp
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
-@SpringBootApplicatio
+@SpringBootApplication
 class DevOpsRepetitionAppApplication
 
 fun main(args: Array<String>) {
