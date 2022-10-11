@@ -17,8 +17,6 @@ class AnimalController(
     @GetMapping("/animals")
     fun getAnimals(): String{
 
-        animalService.getAllAnimals();
-
         return "All your animals";
 
     }
