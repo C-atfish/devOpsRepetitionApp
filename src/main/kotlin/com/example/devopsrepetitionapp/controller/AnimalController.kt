@@ -17,7 +17,7 @@ class AnimalController(
     @GetMapping("/animals")
     fun getAnimals(): String{
 
-        return "All your animals";
+        return "All your animals DUDEE";
 
     }
 
